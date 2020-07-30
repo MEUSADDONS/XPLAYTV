@@ -1,23 +1,18 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]BEM VINDOS AO XPLAYTV[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]1ª GUERRA[/B][/COLOR]</title>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<info>
-NÃO TEMOS FINS LUCRATIVOS 
-APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
-</channel>
-</channels>
->>>>>>>>>>>>>>>>>>>>>>>
+<info></info>
+<genre>GUERRA</genre>   
+</item>
 
-<channels>
-<channel>
-<name>[COLOR lime][B]ENTRE AQUI[/B][/COLOR]</name>
-<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
-<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/XPLAY/master/2-CATEGORIAS</externallink>
-<info>
-XPLAY TV EM CONSTRUÇAO</info>
-</channel>
-</channels>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR lime]OS MERCENÁRIOS 3 - 2014 - RESOLUÇÃO - DUBLADO OU LEGENDADO[/COLOR]</title>
+<thumbnail>CAPA DO NOVO FILME</thumbnail>
+<fanart>FANART DO NOVO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1yckyqweI950yguGZ3uASAt1EaBJj2nid/view?usp=sharing</link>
+<info>SINOPSE DO FILME</info>
+<genre>GUERRA</genre> 
+</item>
+<item>
