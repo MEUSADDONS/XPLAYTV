@@ -1,3 +1,5 @@
+
+
 <channels>
 <channel>
 <name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
@@ -45,7 +47,7 @@
 <name>[COLOR lime][B]NOVELAS ANTIGAS[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>NOLINKRAW-DESENHOS</externallink>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/NOVELAS%20ANTIGAS</externallink>
 <info>
    DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
