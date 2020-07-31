@@ -1,5 +1,3 @@
-
-
 <channels>
 <channel>
 <name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
@@ -8,7 +6,7 @@
 <info>ESCOLHA AQUI O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
@@ -30,7 +28,7 @@
    SUA MARATONA ESTA AQUI</info>
 </channel>
 </channels>
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
 <name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
@@ -41,7 +39,7 @@
    DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
 <name>[COLOR lime][B]NOVELAS ANTIGAS[/B][/COLOR]</name>
@@ -52,3 +50,4 @@
    DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>
