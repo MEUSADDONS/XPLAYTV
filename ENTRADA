@@ -1,22 +1,22 @@
-<channels>
-<channel>
-<name>[COLOR blue][B]BEM VINDOS AO XPLAYTV[/B][/COLOR]</name>
-<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
-<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<canais>
+<canal>
+<name> [COLOR blue] [B] BEM VINDOS AO XPLAYTV [/ B] [/ COLOR] </name>
+<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
+<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
 <info>
 NÃO TEMOS FINS LUCRATIVOS 
-APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
+APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB </info>
 </channel>
 </channels>
 
 
-<channels>
-<channel>
-<name>[COLOR lime][B]ENTRE AQUI[/B][/COLOR]</name>
-<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
-<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/XPLAY/master/2-CATEGORIAS</externallink>
+<canais>
+<canal>
+<name> [COLOR lime] [B] ENTRE AQUI [/ B] [/ COLOR] </name>
+<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
+<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
+<externallink> https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS </externallink>
 <info>
-XPLAY TV EM CONSTRUÇAO</info>
+XPLAY TV EM CONSTRUÇAO </info>
 </channel>
 </channels>
