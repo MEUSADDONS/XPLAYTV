@@ -42,11 +42,11 @@
 
 <canais>
 <canal>
-<name> [COLOR lime] [B] NOVELAS[/ B] [/ COLOR] </name>
+<name> [COLOR lime] [B] NOVELAS [/ B] [/ COLOR] </name>
 <thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
 <fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<externallink> NOLINKRAW-NOVELAS </externallink>
+<externallink> https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/NOVELAS </externallink>
 <info>
-   AS MELHORES NOVELAS VOCE ENCONTRA AQUI </info>
+   COMO MELHORES NOVELAS VOCE ENCONTRA AQUI </info>
 </channel>
 </channels>
