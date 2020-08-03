@@ -1,0 +1,18 @@
+<item>
+<title>[COLOR blue][B]NOVELA[/B][/COLOR]</title>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<info>SO AQUI AS MELHORES NOVELAS</info>
+<genre>NOVELA</genre>   
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - ANO - RESOLUÇÃO - DUBLADO OU LEGENDADO[/COLOR]</title>
+<thumbnail>CAPA DO NOVO FILME</thumbnail>
+<fanart>FANART DO NOVO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+LINK PARA O FILME NO G DRIVE</link>
+<info>SINOPSE DO FILME</info>
+<genre>NOVELA</genre> 
+</item>
+<item>
