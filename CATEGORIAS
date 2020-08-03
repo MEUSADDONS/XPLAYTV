@@ -1,5 +1,5 @@
-<canais>
-<canal>
+<channels>
+<channel>
 <name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
@@ -7,46 +7,36 @@
 </channel>
 </channels>
 
-<canais>
-<canal>
+<channels>
+<channel>
 <name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENEROS</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/XPLAY/master/2A1-SUB-CAT-FILMES</externallink>
 <info>
-O MELHOR DA SÉTIMA ARTE</info>
+   O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 
-<canais>
-<canal>
+<channels>
+<channel>
 <name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>SÉRIE NOLINKRAW</externallink>
+<externallink>NOLINKRAW-SERIES</externallink>
 <info>
-SUA MARATONA ESTA AQUI</info>
+   SUA MARATONA ESTA AQUI</info>
 </channel>
 </channels>
 
-<canais>
-<canal>
+<channels>
+<channel>
 <name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>NOLINKRAW-DESENHOS</externallink>
 <info>
-DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
 
-<canais>
-<canal>
-<name>[COLOR lime][B]NOVELAS ANTIGAS[/B][/COLOR]</name>
-<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
-<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink>NOLINKRAW-DESENHOS</externallink>
-<info>
-AS MELHORES ESTAO AQUI</info>
-</channel>
-</channels>
