@@ -1,18 +1,18 @@
 <canais>
 <canal>
-<name> [COLOR blue] [B] CATEGORIAS [/ B] [/ COLOR] </name>
-<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
-<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<info> ESCOLHA AQUI O GÊNERO DO FILME PARA ASSISTIR </info>
+<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
+<info>ESCOLHA AQUI O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
 
 <canais>
 <canal>
-<name> [COLOR lime] [B] FILMES [/ B] [/ COLOR] </name>
-<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
-<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<externallink> https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENERO </externallink>
+<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENERO</externallink>
 <info>
    O MELHOR DA SÉTIMA ARTE </info>
 </channel>
@@ -20,21 +20,21 @@
 
 <canais>
 <canal>
-<name> [COLOR lime] [B] SÉRIES [/ B] [/ COLOR] </name>
-<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
-<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<externallink> SÉRIE NOLINKRAW </externallink>
+<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<externallink>SÉRIE NOLINKRAW</externallink>
 <info>
-   SUA MARATONA ESTA AQUI </info>
+   SUA MARATONA ESTA AQUI</info>
 </channel>
 </channels>
 
 <canais>
 <canal>
-<name> [COLOR lime] [B] DESENHOS [/ B] [/ COLOR] </name>
-<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
-<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<externallink> NOLINKRAW-DESENHOS </externallink>
+<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<externallink>NOLINKRAW-DESENHOS</externallink>
 <info>
    DIVERSÃO GARANTIDA PARA A CRIANÇADA </info>
 </channel>
@@ -42,11 +42,11 @@
 
 <canais>
 <canal>
-<name> [COLOR lime] [B] NOVELAS ANTIGAS [/ B] [/ COLOR] </name>
-<thumbnail> https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png </thumbnail>
-<fanart> https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg </fanart>
-<externallink> NOLINKRAW-DESENHOS </externallink>
+<name>[COLOR lime][B]NOVELAS ANTIGAS[/B][/COLOR]</name>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<externallink>NOLINKRAW-DESENHOS</externallink>
 <info>
-   AS MELHORES ESTAO AQUI </info>
+   AS MELHORES ESTAO AQUI</info>
 </channel>
 </channels>
