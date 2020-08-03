@@ -1,11 +1,23 @@
-<channels>
-<channel>
-<name>[COLOR lime][B]COMEDIA[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B]COMEDIA[/B][/COLOR]</title>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
-<externallink></externallink>
-<info>
-AQUI VOCE ENCONTRARÁ FILMES SOBRE A 1ª GUERRA MUNDIAL</info>
-<genre>1ª COMEDIA</genre>
-</channel>
-</channels>
+<info></info>
+<genre>COMEDIA</genre>   
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME - ANO - RESOLUÇÃO - DUBLADO OU LEGENDADO[/COLOR]</title>
+<thumbnail>CAPA DO NOVO FILME</thumbnail>
+<fanart>FANART DO NOVO FILME</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/19PIE1IRre_yh_5zPpdj2N3DdREAqqKgw/view</link>
+<info>Sinopse: O controlador de tráfego aéreo Dylan Branson (Michiel Huisman), de Nova York, está no auge de sua carreira,
+até que um dia às 2h22 da tarde, um flash ofuscante de uma luz o paralisa por alguns segundos cruciais até que dois aviões 
+quase entram em colisão em consequência do seu deslize. Suspenso de seu trabalho, Dylan começa a notar cada vez mais a ameaçadora repetição 
+de sons e eventos em sua vida, que sempre acontecem exatamente na mesma hora a cada dia. Este misterioso padrão sempre o atrai para a estação de trem e metrô 
+Grand Central. A medida em que ele se envolve em um complexo relacionamento com uma bela mulher que trabalha em uma galeria de arte, a Sarah (Teresa Palmer), 
+Dylan descobre que terá de quebrar o poder do passado e assumir o controle do próprio tempo se quiser ter um futuro com ela.</info>
+<genre>COMEDIA</genre> 
+</item>
+<item>
