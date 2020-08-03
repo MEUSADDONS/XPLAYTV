@@ -12,10 +12,11 @@ APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ENTRE AQUI [/B][/COLOR]</name>
+<name>[COLOR lime][B]ENTRE AQUI[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS</externallink>
-<info>XPLAY TV EM CONSTRUÇAO EM BREVE AGUADE</info>
+<info>
+XPLAY TV EM CONSTRUÇAO</info>
 </channel>
 </channels>
