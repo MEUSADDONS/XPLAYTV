@@ -17,11 +17,12 @@ https://d3hcyf98g4mn0i.cloudfront.net/e/RCFServer5/ondemand/UMNSHMATRVSDTMP.mp4?
 </item>
 <item>
 
+
 <item>
 <title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view 2</link>
-<link>https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
