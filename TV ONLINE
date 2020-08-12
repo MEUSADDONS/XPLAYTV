@@ -1,9 +1,26 @@
-#EXTM3U
-#EXTINF:-1 group-title="BBB 2020",BBB MOSAICO
-http://tv.factoryiptv.com/CFkmN9GXrx/factoryiptv/64604
-#EXTINF:-1 group-title="TV ABERTA",BAND SP HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-#EXTINF:-1 group-title="TV ABERTA",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",TV CULTURA PA
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+<item>
+<title>[COLOR blue][B]COMEDIA[/B][/COLOR]</title>
+<thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<info></info>
+<genre>COMEDIA</genre>   
+</item>
+
+FILMES COM A LETRA    (A)
+<item>
+<title>BBB 2020",BBB MOSAICO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV ABERTA",SBT PI</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
