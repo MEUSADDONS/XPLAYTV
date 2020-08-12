@@ -65,6 +65,18 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
+<name>[COLOR lime][B]TV ONLINE[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>NOLINKRAW-TV ONLINE</externallink>
+<info>
+   AQUI AS MAIS TOP</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>[COLOR lime][B]COLEÇAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
@@ -73,3 +85,4 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
    AQUI AS MAIS TOP</info>
 </channel>
 </channels>
+
