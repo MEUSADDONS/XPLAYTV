@@ -4,16 +4,16 @@
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <info>REGRAS DO XPLAYTV
-[COLOR green]FUNCIONANDO[/COLOR]
-[COLOR yellow]ATUALIZAÇÃO[/COLOR]
-[COLOR red]DESATIVADO[/COLOR]
+[COLOR green]COR VERDE - FUNCIONANDO[/COLOR]
+[COLOR yellow]COR AMARELO - ATUALIZAÇÃO[/COLOR]
+[COLOR red]COR VERMELHOR - MANUTENCAO[/COLOR]
 ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]GUERRA[/B][/COLOR]</name>
+<name>[COLOR red][B]GUERRA - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/XPLAY/master/2A1A-GEN-FILMES%20DE%20GUERRA</externallink>
@@ -24,7 +24,7 @@ BATALHAS E COMBATES É AQUI</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]AVENTURA[/B][/COLOR]</name>
+<name>[COLOR yellow][B]AVENTURA - ATUALIZACAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/XPLAY/master/2A1C-FILMES%20DE%20AVENTURA</externallink>
@@ -35,7 +35,7 @@ CONHEÇA GRANDES AVENTURAS</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]WESTERN[/B][/COLOR]</name>
+<name>[COLOR red][B]WESTERN - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>NOLINKRAW-FILMES</externallink>
@@ -46,7 +46,7 @@ TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ÉPICOS[/B][/COLOR]</name>
+<name>[COLOR red][B]ÉPICOS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>NOLINKRAW-FILMES</externallink>
@@ -57,7 +57,7 @@ PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR yellow][B]ANIMAÇÃO - CONSTRUCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/ANIMA%C3%87%C3%83O</externallink>
@@ -68,7 +68,7 @@ DIVERSÃO GARANTIDA</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]AÇÃO[/B][/COLOR]</name>
+<name>[COLOR yellow][B]AÇÃO - CONSTRUÇAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/A%C3%87%C3%83O</externallink>
@@ -79,7 +79,7 @@ SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]FICCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]FICCAO - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>NOLINKRAW-FILMES</externallink>
@@ -90,7 +90,7 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SUSPENSE[/B][/COLOR]</name>
+<name>[COLOR red][B]SUSPENSE - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>NOLINKRAW-COLEÇAO</externallink>
@@ -101,7 +101,7 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]COMEDIA[/B][/COLOR]</name>
+<name>[COLOR yellow][B]COMEDIA -CONSTRUCAO[/B][/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/17/items/fanart_20200728/bemvindo.png</thumbnail>
 <fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/COMEDIA</externallink>
