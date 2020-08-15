@@ -10,7 +10,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR yellow][B]FILMES - CONSTRUCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENEROS</externallink>
@@ -21,7 +21,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR red][B]SÉRIES - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/SERIES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>NOLINKRAW-SERIES</externallink>
@@ -32,7 +32,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR red][B]DESENHOS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/DESENHOS.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg/fanart>
 <externallink>NOLINKRAW-DESENHOS</externallink>
@@ -43,7 +43,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]NOVELAS[/B][/COLOR]</name>
+<name>[COLOR red][B]NOVELAS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/NOVELAS.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/NOVELAS</externallink>
@@ -54,7 +54,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]KIDS[/B][/COLOR]</name>
+<name>[COLOR RED][B]KIDS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/KIDS.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>NOLINKRAW-KIDS</externallink>
@@ -65,7 +65,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]TV ONLINE[/B][/COLOR]</name>
+<name>[COLOR red][B]TV ONLINE - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TV%20ONLINE</externallink>
@@ -77,7 +77,7 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR lime][B]COLEÇAO[/B][/COLOR]</name>
+<name>[COLOR yellow][B]COLEÇAO - CONSTRUCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>NOLINKRAW-COLEÇAO</externallink>
