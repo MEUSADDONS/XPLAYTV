@@ -30,10 +30,10 @@ AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR green][B]INFORMACAO[/B][/COLOR]</name>
+<name>[COLOR line][B]INFORMACAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/ENTRE-AQUI.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/INFORMACOES%20DAS%20ATUALIZACOES</externallink>
-<info>[COLOR blue]TODAS AS ATUALIZACOES ESTARA AQUI CONFIRA.[/COLOR</info> 
+<info>[COLOR blue]TODAS AS ATUALIZACOES ESTARA AQUI CONFIRA.[/COLOR]</info> 
 </channel>
 </channels>
