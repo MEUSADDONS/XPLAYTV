@@ -18,10 +18,11 @@ https://drive.google.com/file/d/144xl4WpporcpscucR6suB4RiNSlzBEW9/view</link>
 </item>
 
 <item>
-<title>[COLOR blue][B]A[/B]-[COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
-<thumbnail></thumbnail>
+<title>[COLOR blue][B]>>>>>A<<<<<[/B][/COLOR]</title>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/ACAO.md.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<genre>AÇÃO</genre>
+<info></info>
+<genre>AÇÃO</genre>   
 </item>
 
 <item>
@@ -181,7 +182,8 @@ https://drive.google.com/file/d/18OwhkqddDZv2RIMdMlO1C5sywEomI2Rp/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bKIRy2KuyJnYfBnxzSiCVeXvGl.jpg</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18OwhkqddDZv2RIMdMlO1C5sywEomI2Rp/view
+https://drive.google.com/file/d/18OwhkqddDZv2RIMdMlO1C5sywEomI2Rp/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/18OwhkqddDZv2RIMdMlO1C5sywEomI2Rp/view</link>
 <info>James Bond chega à Cidade do México e está pronto para eliminar Marco Sciarra sem que o chef M saiba da missão. O caso leva à suspensão temporária do agente, que passa a ser constantemente vigiado pelo governo britânico graças a uma tecnologia implantada em seu corpo por Q. Na tentativa de despistar os inimigos e até mesmo alguns de seus parceiros de trabalho, ele se responsabiliza por ajudar a filha de um desafeto. Toda a situação o leva ao centro de uma temida organização denominada Spectre.</info>
 <genre>AÇÃO</genre>
