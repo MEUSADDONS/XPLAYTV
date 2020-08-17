@@ -1,13 +1,6 @@
-<channels>
-<channel>
-<name>[COLOR lime][B]INFORMACAO E ATUALIZACAO[/B][/COLOR]</name>
+<item>
+<title>[COLOR lime][B]INFORMACAO E ATUALIZACAO[/B][/COLOR]</title>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/INFORMACAO-AQUI.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<externallink>LINK AQUI</externallink>
-<info>
-BOM DIA, BOA TARDE E BOA NOITE.
-
-INFORMAÇOES:</info>
-</channel>
-</channels>
-
+<info>BOM DIA, BOA TARDE E BOA NOITE.</info>   
+</item>
