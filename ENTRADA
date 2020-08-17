@@ -16,13 +16,7 @@ APENAS INDEXAMOS LINKS ENCONTRADOS NA WEB</info>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS</externallink>
 <info>
-REGRAS DO XPLAYTV
-[COLOR green]LINK - COR VERDE - FUNCIONANDO[/COLOR]
-[COLOR yellow]LINK - COR AMARELO - ATUALIZAÇÃO[/COLOR]
-[COLOR red]LINK - COR VERMELHOR - MANUTENCAO[/COLOR]
-[COLOR orange]LINK - COR LARANJA - INFORMAÇÃO[/COLOR]
-[COLOR gray]LINK - COR CINZA - ADICIONADO RECENTE[/COLOR]
-XPLAY TV EM CONSTRUÇAO EM BREVE.</info>
+</info>
 </channel>
 </channels>
 
@@ -33,6 +27,7 @@ XPLAY TV EM CONSTRUÇAO EM BREVE.</info>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/INFORMACOES%20E%20ATUALIZACOES</externallink>
 <info>[COLOR orange]AQUI ESTAREI DIVULGANDO TUDO QUE ENTRA DE FILMES QUAIS CATEGORIAS FORAM ADICIONADO FILMES MAIS RECENTES COM NOMES.
-TODAS SEMANAS SERAOO DIVULGADOS AQUI.[/COLOR]</info> 
+TODAS SEMANAS SERAO DIVULGADOS AQUI.
+CONFIREM.[/COLOR]</info> 
 </channel>
 </channels>
