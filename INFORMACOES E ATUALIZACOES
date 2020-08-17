@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR lime][B]INFORMAÇÕES[/B][/COLOR]</name>
+<name>[COLOR lime][B]REGRAS DO XPLAYTV[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info>[COLOR blue]REGRAS DO XPLAYTV.[/COLOR]
+<info>
 
 [COLOR green]LINK - COR VERDE - FUNCIONANDO[/COLOR]
 [COLOR yellow]LINK - COR AMARELO - ATUALIZAÇÃO[/COLOR]
@@ -16,9 +16,16 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]INFORMAÇÃO MAIS RECEMTES[/B][/COLOR]</name>
+<name>[COLOR lime][B]INFORMAÇÕES/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <info>[COLOR blue]AS INFORMAÇÕES POSTADO AQUI FICARÁ POR UMA SEMANA.
 TODOS FINAIS DE SEMANA SERAO FEITOS AS ATUALIÇÕES
 AGURDEM.[/COLOR]
+
+<channels>
+<channel>
+<name>[COLOR lime][B]INFORMAÇÕES RECENTES/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<info>[COLOR blue]ADICIONADO Nível Hard ANIMAÇÃO[/COLOR]
