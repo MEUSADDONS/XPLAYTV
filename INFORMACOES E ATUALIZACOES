@@ -1,11 +1,12 @@
 <channels>
 <channel>
 <name>[COLOR lime][B]INFORMAÇÕES[/B][/COLOR]</name>
-<thumbnail>https://imagensbrasil.org/images/2020/08/15/INFORMACAO-AQUI.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info>[COLOR orange]SERA POSTADO AQUI TODAS AS INFORMAÇÕES.[/COLOR]</info>
+<info>[COLOR orange]SERA POSTADO AQUI TODAS AS INFORMAÇÕES.
 
-<info>[COLOR blue]REGRAS DO XPLAYTV.[/COLOR]
+[COLOR blue]REGRAS DO XPLAYTV.[/COLOR]
+
 [COLOR green]LINK - COR VERDE - FUNCIONANDO[/COLOR]
 [COLOR yellow]LINK - COR AMARELO - ATUALIZAÇÃO[/COLOR]
 [COLOR red]LINK - COR VERMELHOR - MANUTENCAO[/COLOR]
