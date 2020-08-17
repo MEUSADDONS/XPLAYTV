@@ -1,6 +1,9 @@
-<item>
-<title>[COLOR lime][B]INFORMACAO E ATUALIZACAO[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime][B]INFORMAÇÕES[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/INFORMACAO-AQUI.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info>BOM DIA, BOA TARDE E BOA NOITE.</info>   
-</item>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/INFORMACOES%20E%20ATUALIZACOES</externallink>
+<info>SERA POSTA AQUI TODAS AS INFORMAÇÕES.[/COLOR]</info> 
+</channel>
+</channels>
