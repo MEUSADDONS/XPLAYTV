@@ -10,17 +10,6 @@
 
 <channels>
 <channel>
-<name>[COLOR green][B]>>>>>>>FILMES<<<<<[/B][/COLOR]</name>
-<thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENEROS</externallink>
-<info>
-   O MELHOR DA SÉTIMA ARTE</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AVENTURA TORRENT[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
