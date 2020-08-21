@@ -1,0 +1,87 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]>>>>>CATEGORIAS<<<<<[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/07/CATEGORIA.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<info>ESCOLHA AQUI O GÊNERO DO FILME PARA ASSISTIR.
+ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR green][B]>>>>>>>FILMES<<<<<[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENEROS</externallink>
+<info>
+   O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]SÉRIES - MANUTENCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/SERIES.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>NOLINKRAW-SERIES</externallink>
+<info>
+   SUA MARATONA ESTA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]DESENHOS - MANUTENCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/DESENHOS.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg/fanart>
+<externallink>NOLINKRAW-DESENHOS</externallink>
+<info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]NOVELAS - MANUTENCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/NOVELAS.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/NOVELAS</externallink>
+<info>
+   AQUI AS MAIS TOP</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]KIDS - MANUTENCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/KIDS.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>NOLINKRAW-KIDS</externallink>
+<info>
+   AQUI AS MAIS TOP</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]TV ONLINE - MANUTENCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TV%20ONLINE</externallink>
+<info>
+   AQUI AS MAIS TOP</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]COLEÇAO - CONSTRUCAO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>NOLINKRAW-COLEÇAO</externallink>
+<info>
+   AQUI AS MAIS TOP</info>
+</channel>
+</channels>
