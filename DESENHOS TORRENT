@@ -15,11 +15,15 @@
 <genre>DESENHOS TORRENT</genre>
 </item>
 
-<item>
-<title>[COLOR red][B]DESATIVADO [/B][/COLOR]-[COLOR brown][B] [/B][/COLOR]-[COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<channels>
+<channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]Swat Kats - O Esquadrão Radical[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info></info>
-<genre>DESENHOS TORRENT</genre>
-</item>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TORRENT%20SWAT%20KATS%20-%20O%20ESQUADR%C3%83O%20RADICAL</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
+
