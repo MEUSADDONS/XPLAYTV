@@ -6,14 +6,6 @@
 <genre>DESENHOS TORRENT</genre>   
 </item>
 
-<item>
-<title>[COLOR red][B] O Fantástico Mundo de Bobby Dublado [/B][/COLOR]-[COLOR brown][B]ADICIONADO - 1990[/B][/COLOR]-[COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBD3D4CF8F042FFB457D0715A00626475E97F356&dn=O%20Fant%c3%a1stico%20Mundo%20de%20Bobby%20%281%c2%aa%20Temporada%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
-<thumbnail>https://i.imgur.com/7KHE16K.jpg</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info>Sinopse: As histórias dos episódios se desenvolvem em torno das percepções infantis e fantasiosas do mundo através dos olhos de um menino chamado Bobby. Sua família é composta por seu pai, Howard; sua mãe, Martha; e seus dois irmãos, Derek e Kelly. Também aparece constantemente o sempre bem humorado Tio Ted.</info>
-<genre>DESENHOS TORRENT</genre>
-</item>
 
 <channels>
 <channel>
@@ -21,6 +13,17 @@
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TORRENT%20SWAT%20KATS%20-%20O%20ESQUADR%C3%83O%20RADICAL</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B] O Fantástico Mundo de Bobby[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TORRENT%20O%20FANTASTICO%20MUNDO%20DE%20BOBBY</externallink>
 <info>
 CONHEÇA GRANDES AVENTURAS</info>
 </channel>
