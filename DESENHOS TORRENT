@@ -29,4 +29,15 @@ CONHEÇA GRANDES AVENTURAS</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B] O Pequeno Urso[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/O%20PEQUENO%20URSO</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
 
