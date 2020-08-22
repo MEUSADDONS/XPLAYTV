@@ -1,10 +1,22 @@
-<item>
 <title>[COLOR blue][B]>>>>>AÇÃO<<<<<[/B][/COLOR]</title>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <info></info>
 <genre>AÇÃO</genre>   
 </item>
+
+<item>
+<channels>
+<channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]LANÇAMENTO 2020 AÇÃO TORRENT[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/LAN%C3%87AMENTO%202020%20A%C3%87%C3%83O%20TORRENT</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
 
 <item>
 <title>[B] Assassino a Preço Fixo (2011) [COLOR white]2010[/COLOR] 720p- LEGENDADO[/B]</title>
