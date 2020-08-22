@@ -6,6 +6,15 @@
 </item>
 
 <item>
+<title>[B] - [COLOR white]2010[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genreAÇÃO TORRENT></genre>
+</item>
+
+<item>
 <channels>
 <channel>
 <name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AÇÃO TORRENT LANÇAMENTOS 2020[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
@@ -24,5 +33,5 @@ CONHEÇA GRANDES AVENTURAS</info>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<genreAÇÃO TORRENT></genre>
+<genre>AÇÃO TORRENT LANÇAMENTOS 2020</genre>
 </item>
