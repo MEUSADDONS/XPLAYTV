@@ -1,10 +1,12 @@
-<item>
-<title>[COLOR blue][B]>>>>>SUSPENSE TORRENT<<<<<[/B][/COLOR]</title>
-<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<info></info>
-<genre>SUSPENSE TORRENT</genre>   
-</item>
+<channels>
+<channel>
+<name>[COLOR blue][B]>>>>>>>SUSPENSE TORRENT<<<<<<<[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/GENEROS.png</thumbnail>
+<fanart>https://ia601501.us.archive.org/17/items/fanart_20200728/fanart.jpg</fanart>
+<info>
+ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
