@@ -9,7 +9,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green][B]SERVIDOR GDRIVER[/B][/COLOR] [COLOR blue][B]ATIVADO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAYTV[/B][/COLOR] [COLOR green][B]SERVIDOR[/B][/COLOR] [COLOR red][B]G[/B] [/COLOR][COLOR yellow][B]DRIVER[/B][/COLOR] [COLOR blue][B]ATIVADO[/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS</externallink>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green][B]SERVIDOR TORRENT[/B][/COLOR] [COLOR blue][B]ATIVADO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAYTV[/B][/COLOR][COLOR green][B]SERVIDOR TORRENT[/B][/COLOR] [COLOR blue][B]ATIVADO[/B][/COLOR][COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS%20TORRENT</externallink>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]CONSTRUÇÃO SERVIDOR YOUTUBE[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAYTV[/B][/COLOR][COLOR yellow][B]CONSTRUÇÃO em breve (SERVIDOR YOUTUBE)[/B][/COLOR][COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20CATEGORIAS</externallink>
@@ -43,7 +43,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]CONSTRUÇÃO SERVIDOR ALTERNATIVA[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAYTV[/B][/COLOR][COLOR yellow][B]CONSTRUÇÃO em breve (SERVIDOR ALTERNATIVA)[/B][/COLOR][COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/ALTERNATIVA%20%3A%20CATEGORIAS</externallink>
