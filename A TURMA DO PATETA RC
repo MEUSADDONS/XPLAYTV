@@ -7,11 +7,13 @@
 <genre>DESENHOS REDECANAIS</genre>   
 </item>
 
-<item>
-<title>[COLOR gray][B]A Turma do Pateta[/B][/COLOR] [COLOR red][B] [/B][/COLOR]</title>
-<link>https://playplus.azureedge.net/RCServer08/ondemand/ATRMDPATETAEP01.mp4?attachment=true</link>
-<thumbnail>https://redecanais.ws/imgs-videos/Desenhos/A%20Turma%20do%20Pateta%20Capa.jpg</thumbnail>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B] 1° TEMPORADA[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfUUKRmfKkxo7TOEOjWZ1xRHOH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/ALTERNATIVA%3A%201%20TEMPORADA%20A%20TURMA%20DO%20PATETA</externallink>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <info></info>
-</item>
-
+</channel>
+</channels>
