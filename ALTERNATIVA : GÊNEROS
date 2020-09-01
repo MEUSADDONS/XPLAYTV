@@ -10,10 +10,10 @@ ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]DESENHOS : YOUTUBE[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]ALTERNATIVA : DESENHOS[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20DESENHOS</externallink>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/ALTERNATIVA%20%3A%20DESENHOS</externallink>
 <info>
 CONHEÇA GRANDES AVENTURAS</info>
 </channel>
