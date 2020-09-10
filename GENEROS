@@ -21,7 +21,7 @@ BATALHAS E COMBATES É AQUI</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AVENTURA[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AVENTURA[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/AVENTURA</externallink>
@@ -54,7 +54,7 @@ PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]ANIMAÇÃO[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]ANIMAÇÃO[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/ANIMACAO.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/ANIMA%C3%87%C3%83O</externallink>
@@ -65,7 +65,7 @@ DIVERSÃO GARANTIDA</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]AÇÃO[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]AÇÃO[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/ACAO.md.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/A%C3%87%C3%83O</externallink>
@@ -98,7 +98,7 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]COMEDIA[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]COMEDIA[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/COMEDIA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/COMEDIA</externallink>
@@ -109,7 +109,7 @@ EXPLORE OUTROS MUNDOS E DIMENSÕES</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]TERROR[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B] [/COLOR][COLOR green][B]TERROR[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/19/TERROR.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TERROR</externallink>
