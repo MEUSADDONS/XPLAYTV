@@ -107,3 +107,43 @@ CONHEÇA GRANDES AVENTURAS</info>
 CONHEÇA GRANDES AVENTURAS</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[B]TESTE[/B]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/09/13/LANCAMENTO-2020.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[COLOR white][/COLOR][COLOR white][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]TESTE 2[/B]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/09/13/LANCAMENTO-2020.th.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[COLOR white][/COLOR][COLOR white][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]TESTE 3[/B]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/09/13/CATEGORIA.th.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[COLOR white][/COLOR][COLOR white][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]TESTE 4[/B]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/09/13/CATEGORIA.md.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[COLOR white][/COLOR][COLOR white][/COLOR]</info>
+</channel>
+</channels>
