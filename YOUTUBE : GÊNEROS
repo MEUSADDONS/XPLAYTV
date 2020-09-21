@@ -10,7 +10,7 @@ ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AÇÃO : YOUTUBE[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]AÇÃO : YOUTUBE[/B][/COLOR] [COLOR yellow][B]FILMES ADICIONADOS[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/09/13/11.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20A%C3%87%C3%83O</externallink>
@@ -21,7 +21,7 @@ CONHEÇA GRANDES AVENTURAS</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]DESENHOS : YOUTUBE[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]DESENHOS : YOUTUBE[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/09/13/11.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20DESENHOS</externallink>
@@ -34,7 +34,7 @@ CONHEÇA GRANDES AVENTURAS</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]YOUTUBE : LIVE 24 HORAS[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]YOUTUBE : LIVE 24 HORAS[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20LIVE%2024%20HORAS</externallink>
