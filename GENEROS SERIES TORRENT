@@ -10,6 +10,17 @@ ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 
 <channels>
 <channel>
+<name>[COLOR blue][B]XPLAYTV[/B][/COLOR] [COLOR green][B]SERIES AÇAO TORRENT[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/SERIE%20ACAO%20TORRENT</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR blue][B]XPLAYTV[/B][/COLOR] [COLOR green][B]SERIES AVENTURA TORRENT[/B][/COLOR] [COLOR yellow][B]ATUALIZANDO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
