@@ -44,6 +44,18 @@ CONHEÇA GRANDES AVENTURAS</info>
 
 <channels>
 <channel>
+<name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]COMEDIA TORRENT[/B][/COLOR] [COLOR yellow][B]NOVA CATEGORIA[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/COMEDIA%20TORRENT</externallink>
+<info>
+CONHEÇA GRANDES AVENTURAS</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>[COLOR blue][B]XPLAY[/B][/COLOR] [COLOR green][B]DESENHOS TORRENT[/B][/COLOR] [COLOR yellow][B][/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/15/AVENTURA.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
@@ -52,6 +64,7 @@ CONHEÇA GRANDES AVENTURAS</info>
 CONHEÇA GRANDES AVENTURAS</info>
 </channel>
 </channels>
+
 
 <channels>
 <channel>
