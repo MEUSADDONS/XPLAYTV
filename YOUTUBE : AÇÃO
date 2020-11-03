@@ -7,10 +7,19 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]teste 2[/B][/COLOR] [COLOR brown][B]teste [/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsnsM709PUtxiAHIkXFbv3pLOh2.jpg</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<link>plugin://plugin.video.youtube/Play?m=155443</link>
+<info>Chris Samuels, um lutador profissional e pai de família, se aposenta dos ringues para se estabelecer em uma pequena cidade como pastor. Ao perceber os problemas criminais do local, ele decide colocar sua máscara de luta e atuar como um vigilante noturno combatendo a injustiça. Enfrentando crises na igreja e em casa, Chris precisa conciliar sua vida como pastor e como lutador..</info>
+<genre></genre>
+</item
+
+<item>
 <title>[COLOR gray][B]teste[/B][/COLOR] [COLOR brown][B]teste [/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsnsM709PUtxiAHIkXFbv3pLOh2.jpg</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?video_id=155443</link>
+<link>plugin://plugin.video.youtube/play/?video_id=NaCgFZviCuU</link>
 <info>Chris Samuels, um lutador profissional e pai de família, se aposenta dos ringues para se estabelecer em uma pequena cidade como pastor. Ao perceber os problemas criminais do local, ele decide colocar sua máscara de luta e atuar como um vigilante noturno combatendo a injustiça. Enfrentando crises na igreja e em casa, Chris precisa conciliar sua vida como pastor e como lutador..</info>
 <genre></genre>
 </item>
