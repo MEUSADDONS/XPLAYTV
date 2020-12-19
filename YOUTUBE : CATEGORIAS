@@ -21,6 +21,17 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
+<name>[COLOR green][B]>>>>>>>SERIES<<<<<[/B][/COLOR]</name>
+<thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
+<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20SERIE%20%3A%20ANIMA%C3%87AO</externallink>
+<info>
+   O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR green][B]>>>>>>>YOUTUBE : 24 HORAS <<<<<[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
