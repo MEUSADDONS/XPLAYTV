@@ -10,7 +10,7 @@
 <title>[COLOR green][B]A Lenda do Mestre Chinês[/B][/COLOR] [COLOR yellow][B]ADICIONADO RECENTE [/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgFUi4xTual7RkcyobhP76Ctx6A.jpg</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/Play?m=DA_pvPt_Jcg</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DA_pvPt_Jcg</link>
 <info>Em um mundo de fantasia, habitado por criaturas fantásticas e monstros, um homem chamado Fa Hai (Jet Li) tem uma missão muito importante: manter os demônios longe da humanidade a todo o custo. Hai é um mestre das artes marciais e um poderoso feiticeiro, vindo do Templo Jinsham, e viaja o mundo fazendo muito bem o seu trabalho. Quando o jovem curandeiro Xu Zian (Raymond Lam) está coletando ervas na montanha, conhece uma linda jovem (Eva Huang) por quem se apaixona. Porém, a bela jovem é uma Serpente Branca, um demônio metade humano, metade cobra, que vive com sua irmã, uma Serpente Verde. Do amor proibido entre os dois pode surgir o desequilíbrio das forças que regem o mundo e Fa Hai, junto de seus aliados, fará o impossível para evitar que isso aconteça.</info>
 <genre></genre>
 </item
@@ -19,7 +19,7 @@
 <title>[COLOR green][B]GATA EM FUGA[/B][/COLOR] [COLOR yellow][B]ADICIONADO 2020 [/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TKq9yjTY0QaWNAIHCzeGlvwl6D.jpg</thumbnail>
 <fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<link>plugin://plugin.video.youtube/Play?m=8jjjoNztQk4</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8jjjoNztQk4</link>
 <info>Quando Anthony e Julian, dois fracassados e inúteis, decidem deixar seus sonhos para trás e começar uma agência de detetives, acabam dando um passo maior que a perna. O primeiro caso que cai no colo deles é proteger Catalina, uma sexy acompanhante de luxo, que tem as provas essenciais sobre um escandaloso golpe internacional. Logo, os dois detetives desajeitados se vêem às voltas com a máfia russa, um corrupto senador americano e um cruel e implacável assassino.</info>
 <genre></genre>
 </item
