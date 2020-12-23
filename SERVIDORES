@@ -11,7 +11,7 @@
 <channel>
 <name>[COLOR blue][B]XPLAYTV[/B][/COLOR][COLOR green][B]SERVIDOR TORRENT[/B][/COLOR] [COLOR blue][B]PRINCIPAL[/B][/COLOR][COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/2kg2Hmd/SERVIDOR-TORRENT.png</thumbnail>
-<fanart>https://i.ibb.co/2kg2Hmd/SERVIDOR-TORRENT.png</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TORRENT%20%3A%20CATEGORIAS</externallink>
 <info>
    [COLOR orange][B]MUITOS CONTEUDO SO AQUI NO SERVIDOR TORRENTS.[/B][/COLOR]</info>
@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR blue][B]XPLAYTV[/B][/COLOR] [COLOR green][B]SERVIDOR[/B][/COLOR] [COLOR red][B]G[/B] [/COLOR][COLOR yellow][B]DRIVER[/B][/COLOR] [COLOR blue][B]2° OPÇÃO[/B][/COLOR] [COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/nmJRpjz/SERVIDOR-GDRIVE.png</thumbnail>
-<fanart>https://i.ibb.co/nmJRpjz/SERVIDOR-GDRIVE.png</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/CATEGORIAS</externallink>
 <info>
   [COLOR orange][B]MUITOS CONTEUDO SO AQUI NO SERVIDOR GDRIVE.
@@ -32,25 +32,11 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]XPLAYTV[/B][/COLOR][COLOR red][B]SERVIDOR DESLIGADO[/B][/COLOR] [COLOR red][B]3 OPÇÃO[/B][/COLOR] [COLOR red][B]XPLAYTV[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/7YN1nd2/SERVIDOR-ALTERNATIVA.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUT</externallink>
-<info>
-   [COLOR orange][B]ESTAMOS DESLIGANDO ESSE SERVIDOR POR MOTIVO DE MUITA INSTABILIDADES APROVEITEM OS OUTROS SERVIDORES .
-OBRIGADO.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR blue][B]XPLAYTV[/B][/COLOR][COLOR green][B]SERVIDOR YOUTUBE[/B][/COLOR][COLOR blue][B]XPLAYTV[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/806Ph1b/SERVIDOR-YOUTUBE.png</thumbnail>
-<fanart>https://i.ibb.co/806Ph1b/SERVIDOR-YOUTUBE.png</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/YOUTUBE%20%3A%20CATEGORIAS</externallink>
 <info>
   [COLOR orange][B]MUITOS CONTEUDO SO AQUI NO SERVIDOR YOUTUBE.[/B][/COLOR]</info>
 </channel>
 </channels>
-
-
