@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]>>>>>CATEGORIAS<<<<<[/B][/COLOR]</name>
+<name>[COLOR blue][B]>>>>>GDRIVE : CATEGORIAS<<<<<[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/CATEGORIA.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <info>ESCOLHA AQUI O GÊNERO DO FILME PARA ASSISTIR.
 ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 </channel>
@@ -10,10 +10,10 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR green][B]>>>>>>>FILMES<<<<<[/B][/COLOR]</name>
+<name>[COLOR green][B]>>>>>>>GDRIVE : FILMES<<<<<[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/07/FILMES.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/GENEROS</externallink>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
+<externallink>https://github.com/MEUSADDONS/XPLAYTV/blob/master/GDRIVE%20:%20GENEROS</externallink>
 <info>
    O MELHOR DA SÉTIMA ARTE</info>
 </channel>
@@ -21,9 +21,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR red][B]SÉRIES - MANUTENCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]GDRIVE : SÉRIES - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/SERIES.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>NOLINKRAW-SERIES</externallink>
 <info>
    SUA MARATONA ESTA AQUI</info>
@@ -32,9 +32,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR red][B]DESENHOS - MANUTENCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]GDRIVE : DESENHOS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/DESENHOS.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg/fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg/fanart>
 <externallink>NOLINKRAW-DESENHOS</externallink>
 <info>
    DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
@@ -43,9 +43,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR red][B]NOVELAS - MANUTENCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]GDRIVE : NOVELAS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/NOVELAS.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/NOVELAS</externallink>
 <info>
    AQUI AS MAIS TOP</info>
@@ -54,9 +54,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR red][B]KIDS - MANUTENCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]GDRIVE : KIDS - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/KIDS.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>NOLINKRAW-KIDS</externallink>
 <info>
    AQUI AS MAIS TOP</info>
@@ -65,9 +65,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR red][B]TV ONLINE - MANUTENCAO[/B][/COLOR]</name>
+<name>[COLOR red][B]GDRIVE : TV ONLINE - MANUTENCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/08/08/COLECAO.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/MEUSADDONS/XPLAYTV/master/TV%20ONLINE</externallink>
 <info>
    AQUI AS MAIS TOP</info>
@@ -77,9 +77,9 @@ ESTAMOS EM CONSTRUÇÃO AGUARDE.</info>
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]COLEÇAO - CONSTRUCAO[/B][/COLOR]</name>
+<name>[COLOR yellow][B]GDRIVE : COLEÇAO - CONSTRUCAO[/B][/COLOR]</name>
 <thumbnail>https://imagensbrasil.org/images/2020/09/13/SERVIDOR-TORRENT.th.png</thumbnail>
-<fanart>https://imagensbrasil.org/images/2020/08/08/fanart.jpg</fanart>
+<fanart>https://i.ibb.co/yS9DdJx/fanart.jpg</fanart>
 <externallink>NOLINKRAW-COLEÇAO</externallink>
 <info>
    AQUI AS MAIS TOP</info>
